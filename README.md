@@ -10,7 +10,7 @@
 <sup>This is a superscript text</sup>
 ----------------------------------------------------------------------------------------------------------------------------------
 Ejercicio diagrama flujo 
-
+```mermaid
 graph TD;
     A([Inicio])-->B>Menu];
     B>Menu]-->C{Menu<1 </br> Menu>3};
@@ -28,7 +28,7 @@ graph TD;
     L-->O([Fin]);
     M-->O;
     N-->O;
-
+```
 
 
 
